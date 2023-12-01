@@ -70,8 +70,8 @@ En este caso, continuamos con la lectura del archivo utilizando un vector. Consi
 En este caso, se implementó una función que permite escribir un archivo csv con los datos como se encuentran actualmente organizados dentro de la lista de la base de datos. Utilizando ofstream y ciclando con un ciclo for toda la lista extrayendo los datos en el orden en el que se encuentren.
 
 # Evidencia 2 - Resolución de problemas en plataforma externa
-1. [![Alt text](https://img.youtube.com/vi/upDgj-q7hYA/0.jpg)](https://www.youtube.com/watch?v=upDgj-q7hYA)
-2. [![Alt text](https://img.youtube.com/vi/q1-1F8bllJE/0.jpg)](https://www.youtube.com/watch?v=q1-1F8bllJE)
-3. [![Alt text](https://img.youtube.com/vi/M42L7y1_sFw/0.jpg)](https://www.youtube.com/watch?v=M42L7y1_sFw)
+1. Problema - Algoritmos de ordenamiento.[![Alt text](https://img.youtube.com/vi/upDgj-q7hYA/0.jpg)](https://www.youtube.com/watch?v=upDgj-q7hYA)
+2. Problema - Estructuras lineales.[![Alt text](https://img.youtube.com/vi/q1-1F8bllJE/0.jpg)](https://www.youtube.com/watch?v=q1-1F8bllJE)
+3. Problema - Estructuras no lineals.[![Alt text](https://img.youtube.com/vi/M42L7y1_sFw/0.jpg)](https://www.youtube.com/watch?v=M42L7y1_sFw)
 
 
