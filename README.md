@@ -68,3 +68,8 @@ En este caso, continuamos con la lectura del archivo utilizando un vector. Consi
 
 ### Implementa mecanismos de escritura de archivos para guardar los datos  de las estructuras de manera correcta
 En este caso, se implementó una función que permite escribir un archivo csv con los datos como se encuentran actualmente organizados dentro de la lista de la base de datos. Utilizando ofstream y ciclando con un ciclo for toda la lista extrayendo los datos en el orden en el que se encuentren.
+
+# Evidencia 2 - Resolución de problemas en plataforma externa
+https://youtu.be/upDgj-q7hYA?si=v-OGBd54EKkEUm4k
+https://youtu.be/q1-1F8bllJE?si=rpWXX5sAPwBqgCWw
+https://youtu.be/M42L7y1_sFw?si=Ew6B9sncw4PsZENy
